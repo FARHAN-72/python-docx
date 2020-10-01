@@ -1,5 +1,5 @@
 ###########
-This Project Has Moved!
+This Project Has Moved! BUT AMAZING PROJECT
 ###########
 
 **Python DocX is now part of Python OpenXML**. There's all kinds of new stuff, including Python 3 support, sister libraries for doing Excel files, and more. Check out the `current Python DocX GitHub <https://github.com/python-openxml/python-docx>`_ and the `current Python DocX docs <https://python-docx.readthedocs.org/en/latest/>`_.
